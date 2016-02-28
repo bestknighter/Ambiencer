@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
 
-  <Identity Name="04ac815f-d08a-472c-bd16-71a46050ec5b"
+  <Identity Name="86e162b9-78c3-4e22-90bb-e484b09663cd"
             Publisher="CN=gbotelhob"
             Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="04ac815f-d08a-472c-bd16-71a46050ec5b" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="86e162b9-78c3-4e22-90bb-e484b09663cd" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>Ambiencer_Win8.WindowsPhone</DisplayName>
