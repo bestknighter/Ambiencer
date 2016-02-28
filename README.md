@@ -10,3 +10,12 @@ _Project for Spartahack 2016_
 * Your children are using their imagination to play. Why not make it more immersive?
 
 The solution to ~~all~~ some of your problems is here! At least those related to creating the perfect ambience and sounds for every moment you need so!
+
+* **Pads:**
+    Realtime control over all of your sound sets per scene!
+* **Timeline:**
+    Script events with visual nodes and timing for executing complex manipulations with the click of a button!
+* **Market:**
+    Dozens of free and paid packages of every theme you can think of! Are you a sound designer? Why not be there too?
+* **Stop and halt:**
+    Stop button ease the stop by reducing the volume in a sweet speed (personalizable) and halt stops immediately all of them. 
