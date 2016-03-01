@@ -1,6 +1,8 @@
 # Ambiencer
 ###### App for sound, sfx and ambience control over your RPG tabletop play, writing sessions, drama play and rehearsals, playing with your children or anything you can think of!
 
+![This should be a visual mock-up of Universal Windows App, but the link seems broken. Create an issue to tell me!](https://github.com/bestknighter/Ambiencer/blob/master/Ambiencer_Mock-up.png "Visual mock-up of Universal Windows App")
+
 _Project for Spartahack 2016_
 
 
@@ -8,6 +10,8 @@ _Project for Spartahack 2016_
 * Are you writing an intense fight for your book and needs to feel the adrenaline?
 * Doing a drama play but the sound person gets lost in the amount of files?
 * Your children are using their imagination to play. Why not make it more immersive?
+
+![This should be a demonstration of how the node based sound editing should be, but the link seems broken. Create an issue to tell me!](https://github.com/bestknighter/Ambiencer/blob/master/SoundCueEditor_Viewport.jpg "Node based sound editing preview")
 
 The solution to ~~all~~ some of your problems is here! At least those related to creating the perfect ambience and sounds for every moment you need so!
 
